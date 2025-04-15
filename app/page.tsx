@@ -31,7 +31,7 @@ export default function Home() {
             <div className="text-center text-white px-4 space-y-5">
               <FadeUpWhenVisible>
                 <TypingHeader
-                  className={`${dmSerif.className} text-6xl mb-4`}
+                  className={`${dmSerif.className} text-4xl md:text-6xl mb-4`}
                   words={['Welcome to my portfolio', 'Welcome to my website', 'Welcome to my projects']}
                 />
               </FadeUpWhenVisible>
@@ -45,7 +45,7 @@ export default function Home() {
                 </div>
               </FadeUpWhenVisible>
               <FadeUpWhenVisible>
-                <p className={`${notoThai.className} text-2xl`}>รับออกแบบและสร้างเว็บไซต์หน้าเดียว
+                <p className={`${notoThai.className} text-xl md:text-2xl`}>รับออกแบบและสร้างเว็บไซต์หน้าเดียว
                   <br /> ที่ดูดี ใช้งานง่าย และแสดงผลได้ดีบนทุกอุปกรณ์</p>
               </FadeUpWhenVisible>
               <div>
