@@ -4,7 +4,7 @@ import TypingHeader from '@/components/TypingHeader';
 import AnimatedCard from "@/components/AnimatedCard";
 import CircleBackground from "@/components/CircleBackground";
 
-import { FaFacebookF, FaInstagram, FaXTwitter } from 'react-icons/fa6';
+import { FaFacebookF} from 'react-icons/fa6';
 
 import { DM_Serif_Text } from 'next/font/google'
 import { Noto_Sans_Thai } from 'next/font/google'
